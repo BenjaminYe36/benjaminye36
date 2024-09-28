@@ -58,4 +58,10 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminye36&show_icons=true&locale=en&layout=compact" alt="benjaminye36" /></p>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=benjaminye36&show_icons=true&locale=en&layout=compact" alt="benjaminye36" /></div>
+
+<h3 align="left">Top Repositories:</h3>
+
+<a href="https://github.com/BenjaminYe36/Due-Helper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjaminye36&repo=due-helper&theme=buefy" />
+</a>
