@@ -75,3 +75,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjaminye36&repo=due-helper" alt="Due Helper" />
   </picture>
 </a>
+
+<a href="https://github.com/BenjaminYe36/investment-tracker">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benjaminye36&repo=investment-tracker&theme=shades-of-purple">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=benjaminye36&repo=investment-tracker&theme=buefy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=benjaminye36&repo=investment-tracker" alt="Investment Tracker" />
+  </picture>
+</a>
