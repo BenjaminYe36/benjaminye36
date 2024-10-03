@@ -42,7 +42,7 @@
 	<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BenjaminYe36/benjaminye36/refs/heads/main/logos/spring.webp" alt="spring" width="40" height="40" /> </a>
 	<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
-	<a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="https://tauri.app/meta/favicon-96x96.png" alt="tauri" width="40" height="40" /> </a>
+	<a href="https://tauri.app/" target="_blank" rel="noreferrer"> <img src="./logos/tauri.svg" alt="tauri" width="40" height="40" /> </a>
 	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" /> </a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BenjaminYe36/benjaminye36/refs/heads/main/logos/mysql.webp" alt="mysql" width="40" height="40" /> </a>
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
