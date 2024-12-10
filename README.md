@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guangyin (Benjamin) Ye</h1>
-<h3 align="center">CS Senior @ UW | Looking for intern/full-time</h3>
+<h3 align="center">CS Senior @ UW | Looking for full-time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminye36&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminye36" /> </p>
 
-- 🔭 I’m currently maintaining [Due Helper](https://github.com/BenjaminYe36/Due-Helper)
+- 🔭 I’m currently maintaining [Due Helper](https://github.com/BenjaminYe36/Due-Helper) & [Investment Tracker](https://github.com/BenjaminYe36/investment-tracker)
 
 - 🌱 I’m currently learning **Flutter & Dart**
 
