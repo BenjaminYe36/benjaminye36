@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ygy36@outlook.com**
 
-- 📄 Know about my experiences [2024_12_Guangyin_Ye_Resume](https://drive.google.com/file/d/1SGgeSUYmrcKisxp-PaNphDlxdCpAkKNi/view)
+- 📄 Know about my experiences [2024_12_Guangyin_Ye_Resume](https://drive.google.com/file/d/1Hj1xtoCvcmfRvvKRo0QoFSBl2RMoPFve/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
